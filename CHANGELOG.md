@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.88.19](https://github.com/kurtosis-tech/kurtosis/compare/0.88.18...0.88.19) (2024-04-24)
+
+
+### Features
+
+* adding the enclave-db inside the enclave's volume ([#2399](https://github.com/kurtosis-tech/kurtosis/issues/2399)) ([75805ef](https://github.com/kurtosis-tech/kurtosis/commit/75805efd4b6917c71d2e1aa6b55484a5f453397a))
+
 ## [0.88.18](https://github.com/kurtosis-tech/kurtosis/compare/0.88.17...0.88.18) (2024-04-22)
 
 
